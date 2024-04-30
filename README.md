@@ -7,8 +7,8 @@ Hello, I am Sonal Kumar. My research area is Self-supervised Computer Vision app
 2) S. Kumar, A. Sur and R. D. Baruah, "DatUS: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer," in IEEE Transactions on Cognitive and Developmental Systems, doi: 10.1109/TCDS.2024.3383952.
 
 ## CONTACT
-1) LinkedIn: \url{www.linkedin.com/in/sonal-kumar-4b1410198}
-2) Google Scholar: \url{https://scholar.google.com/citations?user=lyGqHCUAAAAJ&hl=en}
+1) LinkedIn: www.linkedin.com/in/sonal-kumar-4b1410198
+2) Google Scholar: https://scholar.google.com/citations?user=lyGqHCUAAAAJ&hl=en
 3) IIT Guwahati: https://www.iitg.ac.in/cse/student-pages/k.sonal
 
 
